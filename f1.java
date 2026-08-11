@@ -1,4 +1,1 @@
-public claa f1{
-    psvm
-    
-}
+hi tirumala 
